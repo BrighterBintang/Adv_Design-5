@@ -1,34 +1,36 @@
 # Adv_Design-5
 Shared repository for Modelling the Beer Fermentation process with Sensitivity Analysis
 
-Most recent and advanced Edition: MKBFIAlpha1
+Most recent and advanced Edition: MKBFIBeta0
 
 From reverse chronological order (only published editions):
-- MKBFIAlpha1.py
-- MKBFIAlpha1_lite.py
-- MKBFIAlpha0.py
-- MKBPI.py
-- Sensitivity Analysis Demo.py
+- MKBFIBeta0
+- MKBFIAlpha1
+- MKBFIAlpha1_lite
+- MKBFIAlpha0
+- MKBPI
+- Sensitivity Analysis Demo
 
 From reverse chronological order (including unpublished and incomplete editions):
-- MKBFIAlpha1.py
-- MKBFIAlpha1_lite.py
-- MKBFIAlpha0.py
-- MKBFI3a.py + MKBFI3b.py
-- MKBFI2.py
-- MKBPI.py
-- Sensitivity Analysis Demo.py
+- MKBFIBeta0
+- MKBFIAlpha1
+- MKBFIAlpha1_lite
+- MKBFIAlpha0
+- MKBFI3a + MKBFI3b
+- MKBFI2
+- MKBPI
+- Sensitivity Analysis Demo
 
 Description for each unpublished and incomplete edition:
 
-MKBFI3a.py + MKBFI3b.py
+MKBFI3a + MKBFI3b
 
 Welcome to MKBFI3, short for Merged Kostas Beer Fermentation Isothermal: 3rd Edition
 Compared to MKBFI2, this Python file:
 - Removes code for One-At-a-Time (OAT) Response Curves
 - Replaces OAT Response Curves with Line Graphs Shading Around Median Data (in Part B)
 
-MKBFI2.py
+MKBFI2
 
 Welcome to MKBFI2, short for Merged Kostas Beer Fermentation Isothermal: 2nd Edition
 Compared to the original MKBFI, this Python file:
