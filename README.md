@@ -16,13 +16,16 @@ From reverse chronological order (including unpublished and incomplete editions)
 - Sensitivity Analysis Demo.py
 
 Description for each unpublished and incomplete edition:
-= MKBFI3a.py + MKBFI3b.py
+
+MKBFI3a.py + MKBFI3b.py
+
 Welcome to MKBFI3, short for Merged Kostas Beer Fermentation Isothermal: 3rd Edition
 Compared to MKBFI2, this Python file:
 - Removes code for One-At-a-Time (OAT) Response Curves
 - Replaces OAT Response Curves with Line Graphs Shading Around Median Data (in Part B)
 
-= MKBFI2.py
+MKBFI2.py
+
 Welcome to MKBFI2, short for Merged Kostas Beer Fermentation Isothermal: 2nd Edition
 Compared to the original MKBFI, this Python file:
 - Uses Kostas's updated Beer Fermentation file (without the mass balance)
