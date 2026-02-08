@@ -1,5 +1,21 @@
 # Bintang's Path Forward Logbook
 
+20:19, Sunday, 8 February 2026
+
+- I have just released MKBFIFinal.
+
+- It was intended to be the end, but 2 things happened.
+
+- 1) Graph 5 (Sugar Consumption Kinetics) is broken. The glucose line does not deplete where it should be.
+  
+- 2) The legend of Graph 1 (Sugar Consumption Profile) is quite large, blocking the line and shaded areas of maltose. It needs to be rescaled.
+ 
+- If those 2 things can be fixed, then we would be in MKBFIFinal_v2.
+
+- Our group will meet tomorrow to work on the report, so any final recommendations (which may include a clearer legend like "Glucose (Sugar ±5%)" rather than "Sugar ±5% with the colour hint to associate with the Glucose line") will be part of MKBFIUltimate, the last and unchanging.
+
+- If MKBFIUltimate ever become changing, then MKBFIZed.
+
 19:32, Sunday, 8 February 2026
 
 - I have just released MKBFIRelease1.
