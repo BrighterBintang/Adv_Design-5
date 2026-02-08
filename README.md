@@ -1,11 +1,12 @@
 # Adv_Design-5
 Shared repository for Modelling the Beer Fermentation process with Sensitivity Analysis
 
-Most recent and advanced edition: MKBFIRelease1
+Most recent and advanced edition: MKBFIFinal
 
-Next edition: MKBFIRelease2
+Next edition: MKBFIFinal_v2, MKBFIUltimate
 
 From reverse chronological order (only published editions):
+- MKBFIFinal
 - MKBFIRelease1
 - MKBFIBeta0
 - MKBFIAlpha1
@@ -15,6 +16,7 @@ From reverse chronological order (only published editions):
 - Sensitivity Analysis Demo
 
 From reverse chronological order (including unpublished and incomplete editions):
+- MKBFIFinal
 - MKBFIRelease1
 - MKBFIBeta0
 - MKBFIAlpha1
